@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0136-single-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -21,4 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
