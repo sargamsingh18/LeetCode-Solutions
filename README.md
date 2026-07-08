@@ -15,15 +15,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
