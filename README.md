@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0506-relative-ranks](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2418-sort-the-people](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -44,10 +45,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2418-sort-the-people](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
