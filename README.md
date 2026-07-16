@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -75,4 +76,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
