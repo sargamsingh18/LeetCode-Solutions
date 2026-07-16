@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0506-relative-ranks](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -61,4 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
