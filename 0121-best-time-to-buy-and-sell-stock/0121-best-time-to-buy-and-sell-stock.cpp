@@ -5,8 +5,7 @@ public:
         int profit=0;
         for(int i=0;i<prices.size();i++)
         {
-            int cost=prices[i]-mini;
-            profit=max(cost,profit);
+            profit=max(prices[i]-mini,profit);
             mini=min(prices[i],mini);
 
 
