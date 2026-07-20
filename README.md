@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0905-sort-array-by-parity](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
