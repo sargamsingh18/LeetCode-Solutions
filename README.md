@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -106,5 +108,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
