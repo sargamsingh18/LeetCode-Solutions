@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [2235-add-two-integers](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
