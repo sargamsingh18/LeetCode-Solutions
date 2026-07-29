@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0342-power-of-four](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
