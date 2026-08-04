@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0506-relative-ranks](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
