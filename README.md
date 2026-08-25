@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
