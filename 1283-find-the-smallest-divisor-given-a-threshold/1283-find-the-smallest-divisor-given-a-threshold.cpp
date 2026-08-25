@@ -1,5 +1,9 @@
 class Solution {
 public:
+int m(vector <int> &a)
+{
+    return *max_element(a.begin(),a.end());
+}
 long long calc(vector<int> &nums,int n)
 {
     long long sum=0;
@@ -11,7 +15,7 @@ long long calc(vector<int> &nums,int n)
 }
     int smallestDivisor(vector<int>& nums, int threshold) {
        int low=1;
-       int high=*max_element(nums.begin(),nums.end());
+       int high=m(nums);
        while(low<=high)
        {
         int mid=(low+high)/2;
