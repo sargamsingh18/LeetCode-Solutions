@@ -1,13 +1,5 @@
 class Solution {
 public:
-int s(vector<int> &w)
-{
-    int sum=0;
-    for(int i=0;i<w.size();i++)
-    sum+=w[i];
-    return sum;
-
-}
 int dtaken(vector <int>&w,int c)
 {
     int d=0;
@@ -29,7 +21,7 @@ int dtaken(vector <int>&w,int c)
 }
     int shipWithinDays(vector<int>& weights, int days) {
         int low=*max_element(weights.begin(),weights.end());
-        int high=s(weights);
+        int high=accumulate(weights.begin(),weights.end(),0);
         while(low<=high)
         {
             int mid=(low+high)/2;
