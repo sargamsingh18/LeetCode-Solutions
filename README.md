@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0506-relative-ranks](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
@@ -170,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
