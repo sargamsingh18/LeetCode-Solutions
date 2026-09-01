@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1903-largest-odd-number-in-string](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2418-sort-the-people](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
