@@ -5,7 +5,7 @@ public:
         int num=0;
         for(int i=0;i<s.length();i++)
         {
-            if(mp[s[i]]<mp[s[i+1]])
+            if(i+1<s.length() && mp[s[i]]<mp[s[i+1]])
             num-=mp[s[i]];
             else
             num+=mp[s[i]];
