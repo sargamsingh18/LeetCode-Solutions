@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
@@ -227,5 +229,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
