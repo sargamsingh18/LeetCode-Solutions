@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
