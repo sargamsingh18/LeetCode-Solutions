@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Recursion
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/sargamsingh18/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Counting
 |  |
 | ------- |
